@@ -7,3 +7,12 @@ C:\Users\neera\documents\visual studio 2015\Projects\RateCalculator\RateCalculat
 C:\Users\neera\documents\visual studio 2015\Projects\RateCalculator\RateCalculatorBAL\obj\Debug\RateCalculatorBAL.csprojResolveAssemblyReference.cache
 C:\Users\neera\documents\visual studio 2015\Projects\RateCalculator\RateCalculatorBAL\obj\Debug\RateCalculatorBAL.dll
 C:\Users\neera\documents\visual studio 2015\Projects\RateCalculator\RateCalculatorBAL\obj\Debug\RateCalculatorBAL.pdb
+C:\Users\neera\Documents\GitHub\rateCalculatorRepo\ProductRateCalculator\RateCalculator\RateCalculatorBAL\bin\Debug\RateCalculatorBAL.dll
+C:\Users\neera\Documents\GitHub\rateCalculatorRepo\ProductRateCalculator\RateCalculator\RateCalculatorBAL\bin\Debug\RateCalculatorBAL.pdb
+C:\Users\neera\Documents\GitHub\rateCalculatorRepo\ProductRateCalculator\RateCalculator\RateCalculatorBAL\bin\Debug\RateCalculatorRepository.dll
+C:\Users\neera\Documents\GitHub\rateCalculatorRepo\ProductRateCalculator\RateCalculator\RateCalculatorBAL\bin\Debug\EntityFramework.dll
+C:\Users\neera\Documents\GitHub\rateCalculatorRepo\ProductRateCalculator\RateCalculator\RateCalculatorBAL\bin\Debug\RateCalculatorRepository.pdb
+C:\Users\neera\Documents\GitHub\rateCalculatorRepo\ProductRateCalculator\RateCalculator\RateCalculatorBAL\bin\Debug\EntityFramework.xml
+C:\Users\neera\Documents\GitHub\rateCalculatorRepo\ProductRateCalculator\RateCalculator\RateCalculatorBAL\obj\Debug\RateCalculatorBAL.csprojResolveAssemblyReference.cache
+C:\Users\neera\Documents\GitHub\rateCalculatorRepo\ProductRateCalculator\RateCalculator\RateCalculatorBAL\obj\Debug\RateCalculatorBAL.dll
+C:\Users\neera\Documents\GitHub\rateCalculatorRepo\ProductRateCalculator\RateCalculator\RateCalculatorBAL\obj\Debug\RateCalculatorBAL.pdb

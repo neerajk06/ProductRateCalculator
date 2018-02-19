@@ -15,3 +15,20 @@ C:\Users\neera\documents\visual studio 2015\Projects\RateCalculator\RateCalculat
 C:\Users\neera\documents\visual studio 2015\Projects\RateCalculator\RateCalculatorService\obj\Debug\RateCalculatorService.csprojResolveAssemblyReference.cache
 C:\Users\neera\documents\visual studio 2015\Projects\RateCalculator\RateCalculatorService\obj\Debug\RateCalculatorService.dll
 C:\Users\neera\documents\visual studio 2015\Projects\RateCalculator\RateCalculatorService\obj\Debug\RateCalculatorService.pdb
+C:\Users\neera\Documents\GitHub\rateCalculatorRepo\ProductRateCalculator\RateCalculator\RateCalculatorService\bin\Debug\RateCalculatorService.dll.config
+C:\Users\neera\Documents\GitHub\rateCalculatorRepo\ProductRateCalculator\RateCalculator\RateCalculatorService\bin\Debug\RateCalculatorService.dll
+C:\Users\neera\Documents\GitHub\rateCalculatorRepo\ProductRateCalculator\RateCalculator\RateCalculatorService\bin\Debug\RateCalculatorService.pdb
+C:\Users\neera\Documents\GitHub\rateCalculatorRepo\ProductRateCalculator\RateCalculator\RateCalculatorService\bin\Debug\EntityFramework.dll
+C:\Users\neera\Documents\GitHub\rateCalculatorRepo\ProductRateCalculator\RateCalculator\RateCalculatorService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\neera\Documents\GitHub\rateCalculatorRepo\ProductRateCalculator\RateCalculator\RateCalculatorService\bin\Debug\RateCalculatorBAL.dll
+C:\Users\neera\Documents\GitHub\rateCalculatorRepo\ProductRateCalculator\RateCalculator\RateCalculatorService\bin\Debug\RateCalculatorRepository.dll
+C:\Users\neera\Documents\GitHub\rateCalculatorRepo\ProductRateCalculator\RateCalculator\RateCalculatorService\bin\Debug\Unity.Abstractions.dll
+C:\Users\neera\Documents\GitHub\rateCalculatorRepo\ProductRateCalculator\RateCalculator\RateCalculatorService\bin\Debug\Unity.Container.dll
+C:\Users\neera\Documents\GitHub\rateCalculatorRepo\ProductRateCalculator\RateCalculator\RateCalculatorService\bin\Debug\Unity.Wcf.dll
+C:\Users\neera\Documents\GitHub\rateCalculatorRepo\ProductRateCalculator\RateCalculator\RateCalculatorService\bin\Debug\RateCalculatorBAL.pdb
+C:\Users\neera\Documents\GitHub\rateCalculatorRepo\ProductRateCalculator\RateCalculator\RateCalculatorService\bin\Debug\RateCalculatorRepository.pdb
+C:\Users\neera\Documents\GitHub\rateCalculatorRepo\ProductRateCalculator\RateCalculator\RateCalculatorService\bin\Debug\EntityFramework.xml
+C:\Users\neera\Documents\GitHub\rateCalculatorRepo\ProductRateCalculator\RateCalculator\RateCalculatorService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\neera\Documents\GitHub\rateCalculatorRepo\ProductRateCalculator\RateCalculator\RateCalculatorService\obj\Debug\RateCalculatorService.csprojResolveAssemblyReference.cache
+C:\Users\neera\Documents\GitHub\rateCalculatorRepo\ProductRateCalculator\RateCalculator\RateCalculatorService\obj\Debug\RateCalculatorService.dll
+C:\Users\neera\Documents\GitHub\rateCalculatorRepo\ProductRateCalculator\RateCalculator\RateCalculatorService\obj\Debug\RateCalculatorService.pdb
