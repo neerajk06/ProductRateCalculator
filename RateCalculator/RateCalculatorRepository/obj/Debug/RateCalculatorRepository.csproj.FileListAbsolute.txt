@@ -1,0 +1,10 @@
+C:\Users\neera\documents\visual studio 2015\Projects\RateCalculator\RateCalculatorRepository\bin\Debug\RateCalculatorRepository.dll.config
+C:\Users\neera\documents\visual studio 2015\Projects\RateCalculator\RateCalculatorRepository\bin\Debug\RateCalculatorRepository.dll
+C:\Users\neera\documents\visual studio 2015\Projects\RateCalculator\RateCalculatorRepository\bin\Debug\RateCalculatorRepository.pdb
+C:\Users\neera\documents\visual studio 2015\Projects\RateCalculator\RateCalculatorRepository\bin\Debug\EntityFramework.dll
+C:\Users\neera\documents\visual studio 2015\Projects\RateCalculator\RateCalculatorRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\neera\documents\visual studio 2015\Projects\RateCalculator\RateCalculatorRepository\bin\Debug\EntityFramework.xml
+C:\Users\neera\documents\visual studio 2015\Projects\RateCalculator\RateCalculatorRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\neera\documents\visual studio 2015\Projects\RateCalculator\RateCalculatorRepository\obj\Debug\RateCalculatorRepository.csprojResolveAssemblyReference.cache
+C:\Users\neera\documents\visual studio 2015\Projects\RateCalculator\RateCalculatorRepository\obj\Debug\RateCalculatorRepository.dll
+C:\Users\neera\documents\visual studio 2015\Projects\RateCalculator\RateCalculatorRepository\obj\Debug\RateCalculatorRepository.pdb

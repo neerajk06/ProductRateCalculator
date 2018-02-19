@@ -1,0 +1,42 @@
+﻿@using RateCalculatorClient.Models
+@model ProductDetailRequestModel
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h2>Product Rate Calculator :</h2>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <h3>Select Product:</h3>
+        <p>
+            @Html.DropDownList("ProductDropDown", new List<SelectListItem>
+{
+    new SelectListItem{ Text="--Select--", Value = "0" },
+    new SelectListItem{ Text="3 Year Closed", Value = "1" },
+    new SelectListItem{ Text="5 Year Closed", Value = "2" },
+ })
+        </p>
+        
+    </div>
+    <div class="col-md-3">
+        <h3>Select Program:</h3>
+        <p>NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.</p>
+        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>
+    </div>
+    <div class="col-md-3">
+        <h3>Start Date:</h3>
+        <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
+        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
+    </div>
+    <div class="col-md-3">
+        <h3>End Date:</h3>
+        <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
+        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
+    </div>
+</div>
+
+

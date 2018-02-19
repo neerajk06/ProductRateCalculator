@@ -1,0 +1,73 @@
+﻿@using RateCalculatorClient.Models
+@model ProductDetailRequestModel
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="row">
+    <div class="col-md-8">
+        <section id="productSearchForm">
+            @using (Html.BeginForm("ProductSearch", "ProductSearch", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+            {
+                @Html.AntiForgeryToken()
+                <h4>Product Rate Calculator :</h4>
+                <hr />
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <div class="form-group">
+                    @Html.LabelFor(m => m.ProductId, new { @class = "col-md-2 control-label" })
+                    <div class="col-md-10">
+                        @Html.DropDownList("ProductDropDown", new List<SelectListItem>
+                        {
+                            new SelectListItem{ Text="--Select--", Value = "0" },
+                            new SelectListItem{ Text="3 Year Closed", Value = "1" },
+                            new SelectListItem{ Text="5 Year Closed", Value = "2" },
+                         })
+                    </div>
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(m => m.ProgramId, new { @class = "col-md-2 control-label" })
+                    <div class="col-md-10">
+                        @Html.DropDownList("ProgramDropDown", new List<SelectListItem>
+                        {
+                            new SelectListItem{ Text="--Select--", Value = "0" },
+                            new SelectListItem{ Text="3 Year Closed", Value = "1" },
+                            new SelectListItem{ Text="5 Year Closed", Value = "2" },
+                         })
+                    </div>
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(m => m.StartDate, new { @class = "col-md-2 control-label" })
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.StartDate, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.StartDate, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(m => m.EndtDate, new { @class = "col-md-2 control-label" })
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.EndtDate, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.EndtDate, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" value="Search" class="btn btn-default" />
+                    </div>
+                </div>
+            }
+        </section>
+        @if (ViewBag.showResult == true)
+        {
+            <div>
+                @Html.Partial("_SearchResults", Model)
+            </div>
+        }
+    </div>
+
+</div>
+@*<div class="row">
+    @{Html.RenderPartial("_SearchResults", null);
+    }
+
+
+</div>*@

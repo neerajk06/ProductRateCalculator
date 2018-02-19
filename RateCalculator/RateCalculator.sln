@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RateCalculatorService", "RateCalculatorService\RateCalculatorService.csproj", "{6F1658F5-7041-4F64-A223-B2E921E88659}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RateCalculatorClient", "RateCalculatorClient\RateCalculatorClient.csproj", "{4658FA55-6C2F-42C7-899E-B07BC5B2310C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RateCalculatorClient.Tests", "RateCalculatorClient.Tests\RateCalculatorClient.Tests.csproj", "{DFB4A7D7-1EC8-4E35-9F11-97BE28903C1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RateCalculatorBAL", "RateCalculatorBAL\RateCalculatorBAL.csproj", "{A40779A4-2137-4765-A4D8-FB429AC58032}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RateCalculatorRepository", "RateCalculatorRepository\RateCalculatorRepository.csproj", "{37182150-0F7F-41CB-9694-BA516786EAD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F1658F5-7041-4F64-A223-B2E921E88659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F1658F5-7041-4F64-A223-B2E921E88659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F1658F5-7041-4F64-A223-B2E921E88659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F1658F5-7041-4F64-A223-B2E921E88659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4658FA55-6C2F-42C7-899E-B07BC5B2310C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4658FA55-6C2F-42C7-899E-B07BC5B2310C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4658FA55-6C2F-42C7-899E-B07BC5B2310C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4658FA55-6C2F-42C7-899E-B07BC5B2310C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFB4A7D7-1EC8-4E35-9F11-97BE28903C1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB4A7D7-1EC8-4E35-9F11-97BE28903C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB4A7D7-1EC8-4E35-9F11-97BE28903C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB4A7D7-1EC8-4E35-9F11-97BE28903C1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A40779A4-2137-4765-A4D8-FB429AC58032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A40779A4-2137-4765-A4D8-FB429AC58032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A40779A4-2137-4765-A4D8-FB429AC58032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A40779A4-2137-4765-A4D8-FB429AC58032}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37182150-0F7F-41CB-9694-BA516786EAD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37182150-0F7F-41CB-9694-BA516786EAD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37182150-0F7F-41CB-9694-BA516786EAD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37182150-0F7F-41CB-9694-BA516786EAD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

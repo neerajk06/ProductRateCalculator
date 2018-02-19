@@ -1,0 +1,46 @@
+﻿@using RateCalculatorClient.Models
+@model ProductDetailResponseModel
+<br /><br />
+@if (ViewBag.showResult == true)
+{
+    <table border="1" cellpadding="15">
+        <tr>
+            <td><b>Product Name :</b></td>
+            <td>
+                @Model.ProductName
+            </td>
+        </tr>
+        <tr>
+            <td><b>Program Name :</b></td>
+            <td>
+                @Model.ProgramName
+            </td>
+        </tr>
+        <tr>
+            <td><b>Lowerest Rate :</b></td>
+            <td>
+                @Model.LowerestRate
+            </td>
+        </tr>
+        <tr>
+            <td><b>Start Date :</b></td>
+            <td>
+                @Model.StartDate.ToShortDateString()
+            </td>
+        </tr>
+        <tr>
+            <td><b>End Date :</b></td>
+            <td>
+                @Model.EndtDate.ToShortDateString()
+            </td>
+        </tr>
+
+    </table>
+}
+else
+{
+    <div><b>No Result Found.</b></div>
+}
+
+<br />
+<div><b><u>@Html.ActionLink("New Search", "ProductSearch", "ProductSearch", routeValues: null, htmlAttributes: new { id = "newsearch" })</u></b></div>
